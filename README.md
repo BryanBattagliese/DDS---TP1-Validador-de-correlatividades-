@@ -3,7 +3,7 @@
 
 ## Punto 1 ##
 - Diseñar una solución en el Paradigma Orientado a Objetos y comunicar la solución mediante un Diagrama de Clases.
-![Diagrama de clases](tp1ddc.JPG)
+![Diagrama de clases](src/tp1 ddc.png)
 
 
 ## Punto 2 ##
